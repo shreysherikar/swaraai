@@ -1,0 +1,1 @@
+{"statusCode": 500, "headers": {"Content-Type": "application/json"}, "body": "{\"error\": \"Internal server error: GROQ_API_KEY environment variable not set\"}"}

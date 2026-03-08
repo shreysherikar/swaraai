@@ -1,0 +1,16 @@
+{
+  "name": "aws-ai-for-bharat",
+  "version": "1.0.0",
+  "description": "Enterprise-grade \"Linguistic Sovereignty\" tool that preserves and amplifies Indian English nuances in professional communications.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

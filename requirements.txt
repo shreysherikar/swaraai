@@ -1,0 +1,30 @@
+# AWS SDK and Core Dependencies
+boto3==1.34.34
+botocore==1.34.34
+aws-cdk-lib==2.120.0
+constructs>=10.0.0
+
+# AWS Lambda Powertools
+aws-lambda-powertools==2.31.0
+
+# Data Processing
+pydantic==2.5.3
+python-dotenv==1.0.0
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
+pytest-asyncio==0.23.3
+moto==5.0.0
+hypothesis==6.92.2
+
+# OpenSearch
+opensearch-py==2.4.2
+
+# ML/Embeddings
+sentence-transformers==2.3.1
+numpy==1.26.3
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2

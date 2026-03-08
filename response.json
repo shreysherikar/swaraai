@@ -1,0 +1,1 @@
+{"statusCode": 500, "headers": {"Content-Type": "application/json"}, "body": "{\"error\": \"Internal server error: Style vector not found for user_id: test_user_123. Please complete voice calibration first.\"}"}

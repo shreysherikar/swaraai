@@ -1,0 +1,2 @@
+# Lambda Layer Dependencies - Minimal for MVP
+requests==2.31.0
